@@ -1,1 +1,10 @@
+let handler = async (m, { conn, text, usedPrefix, command }) => {
+  if (!text) throw "*معك الذكــاء الإصطناعي مثال :*\n\n*.youai ما هي تحية الإسلام ?*";
+  m.reply(wait);
+let a = await(await fetch("https://itzpire.site/ai/you?q=" + text)).json()
+  m.reply("*[ B O B I Z A - A I  ]*\n\n" + a.result.message);
+};
 
+handler.help = handler.command = ["youai"];
+handler.tags = ["ai"];
+export default handler
