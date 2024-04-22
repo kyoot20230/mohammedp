@@ -15,15 +15,15 @@
 
 ### `▢ الحسابات الرسمية`
 
-[ 🔗 ] https://atom.bio/mego51_51
+[ 🔗 ] ♯ЅᗩFᏒOT꙯✨
 
 ### `▢ مجموعات الدعم (متوفرة)`
 
- <a href="https://chat.whatsapp.com/KSmyQMnG5kxF3bRJGgXVvW" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+ <a href="https://chat.whatsapp.com/ClNQxTnKyFx6eZnJcvqsPY" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<a href="https://chat.whatsapp.com/GbsFSHXkLoUJ9JH7t8djAn" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://chat.whatsapp.com/ClNQxTnKyFx6eZnJcvqsPY" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<a href="https://chat.whatsapp.com/GbsFSHXkLoUJ9JH7t8djAn" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://chat.whatsapp.com/ClNQxTnKyFx6eZnJcvqsPY" target="blank"><img src="https://img.shields.io/badge/SUPPORT_GROUP_(EN)_(نشط)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 > [ 📌 ] لا يُسمح بالبوتات الاخري في مجموعات الدعم.
 
