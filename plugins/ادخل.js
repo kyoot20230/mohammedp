@@ -36,7 +36,7 @@ let handler = async (m, { conn, text, usedPrefix, command, args, participants, i
      }).then(async () => {
      await delay(7000)
      }).then( async () => {
-     await conn.reply(res, `فليهدأ الجميع ! 🤭`, 0)
+     await conn.reply(res, `اهدو ي جدعان ! 🙂`, 0)
      await conn.reply(global.owner[1]+'@s.whatsapp.net', `⚡ *دعوه للجروب*\n\n@${m.sender.split('@')[0]} دعاني *${conn.user.name}* للجروب\n\n*${await conn.getName(res)}*\n\n*الاي دي* : ${res}\n\n📌 الرابط : ${args[0]}\n\nسيخرج البوت تلقائياً بعد \n\n${msToDate(global.db.data.chats[res].expired - now)}`, null, {mentions: [m.sender]})
      })
      if (!e.length) await conn.reply(global.owner[1]+'@s.whatsapp.net', `≡ *INVITACIÓN A GRUPO*\n\n@${m.sender.split('@')[0]} has invited *${conn.user.name}* to group\n\n*${await conn.getName(res)}*\n\n*ID* : ${res}\n\n📌 link : ${args[0]}\n\nThe bot will exit automatically after\n\n ${msToDate(global.db.data.chats[res].expired - now)}`, null, {mentions: [m.sender]})
@@ -55,7 +55,7 @@ ${usedPrefix}اوامر
      })
     } catch (e) {
       conn.reply(global.owner[1]+'@s.whatsapp.net', e)
-      throw `البوت داخل المجموعه`
+      throw `💕بوت سفروت داخل المجموعه`
       }
 }
 handler.help = ['join <chat.whatsapp.com> <dias>']
